@@ -46,6 +46,7 @@ venv/
 
 # self
 data/
+cnn-model/
 opencv-tutorial/
 tensorflow-tutorial/
 README.txt
